@@ -1,0 +1,4 @@
+evdev==1.2.0
+RPi.GPIO==0.6.5
+spidev==3.4
+xbox==0.1.3
